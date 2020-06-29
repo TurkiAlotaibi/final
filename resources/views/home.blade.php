@@ -9,7 +9,7 @@
     <div class="row justify-content-center">
         <div class="col-md-8">
             <div class="card">
-                <div class="card-header">Training Group Website</div>
+                <div class="card-header">Training Group three Website </div>
 
                 <div class="card-body">
                     @if (session('status'))
