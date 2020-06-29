@@ -9,7 +9,11 @@
     <div class="row justify-content-center">
         <div class="col-md-8">
             <div class="card">
+<<<<<<< HEAD
                 <div class="card-header">Training Group Three Website</div>
+=======
+                <div class="card-header">Training Group three Website </div>
+>>>>>>> c07c877ec48c67d9a3d6ed641ce7a89948091c2e
 
                 <div class="card-body">
                     @if (session('status'))
